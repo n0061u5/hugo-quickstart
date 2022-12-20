@@ -1,0 +1,4 @@
+baseURL = 'https://n0061u5.gitlab.io/hugo-quickstart/'
+languageCode = 'en-en'
+title = "Noob's corner"
+theme = 'ananke'
